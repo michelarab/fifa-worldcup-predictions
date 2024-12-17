@@ -10,6 +10,7 @@ This project predicts FIFA World Cup match outcomes using **Logistic Regression*
 
 ## 🚀 Project Workflow
 You can check that in the Jupyter Notebook final.ipynb
+
 ---
 
 ## 📊 Results
@@ -34,5 +35,7 @@ You can check that in the Jupyter Notebook final.ipynb
 
 ## Authors
 Michel Arab
+
 AJ Baily
+
 Adam Elahmadi
